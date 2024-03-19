@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Giron</h1>
 
 # 💫 About Me
-🔭 Actualmente estoy trabajando en: Desarrollo de una aplicación web de gestión de proyectos.<br>👯 Busco colaborar en: Proyectos que impliquen innovación tecnológica y mejora de la experiencia del usuario.<br>🤝 Busco ayuda con: Optimización de algoritmos en el backend para mejorar el rendimiento de la aplicación.<br>🌱 Estoy aprendiendo actualmente: Frameworks de frontend como React y técnicas avanzadas de diseño UX/UI.<br>💬 Pregúntame acerca de: Mis experiencias en la implementación de arquitecturas de microservicios.
+🔭 Actualmente estoy trabajando en: Desarrollo de una aplicación web de gestión de proyectos.<br>👯 Busco colaborar en: Proyectos que impliquen innovación tecnológica y mejora de la experiencia del usuario.<br>🤝 Busco ayuda con: Optimización de algoritmos en el backend para mejorar el rendimiento de la aplicación.<br>🌱 Estoy aprendiendo actualmente: Frameworks de frontend como React y técnicas avanzadas de diseño UX/UI.<br>
 
 
 ## 🌐 Socials:
