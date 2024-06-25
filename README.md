@@ -5,11 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Francisco Giron</h1>
 
-# 💫 About Me
-🔭 Actualmente estoy trabajando en: Desarrollo de una aplicación web de gestión de proyectos.<br>👯 Busco colaborar en: Proyectos que impliquen innovación tecnológica y mejora de la experiencia del usuario.<br>🤝 Busco ayuda con: Optimización de algoritmos en el backend para mejorar el rendimiento de la aplicación.<br>🌱 Estoy aprendiendo actualmente: Frameworks de frontend como React y técnicas avanzadas de diseño UX/UI.<br>
-
-
-
 ## 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gironmv12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
